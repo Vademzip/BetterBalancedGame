@@ -3,37 +3,39 @@
 	<LocalizedText>
 
 		<!-- Author : Ybanca -->
-		<!-- With the help of Apeul, CCPyro, Chuck, CivFr players, Connavar, Gloen, LordKnt -->
+		<!-- With the help of Apeul, CCPyro, Chuck, CivFr players, Connavar, Gloen, LordKnt, Pebbleton -->
 		<!-- Special thanks to platypus and ZhenjaMax -->
 		<!-- Based on the work of Priz, who took care of the French translation before me -->
 
 
 
 		<!-- ==== SOMMAIRE ==== -->
-		<!-- Civilisations/Civilizations
-			 Unités/Units
-			 Promotions d'unités/Unit promotions
-			 Descriptions en combat/Combat descriptions 
-			 Gouverneurs/Governors
-			 Panthéons/Pantheons
-			 Croyances/Beliefs
-			 Aménagements/Improvements
-			 Quartiers/Districts
-			 Bâtiments/Buildings
-			 Merveilles naturelles/Natural wonders
-			 Merveilles mondiales/World wonders
-			 Cités-états/City-states
-			 Âges/Ages
-			 Arbre de technologie/Science tree
-			 Arbre de dogmes/Culture tree
-			 Gouvernements/Governements
-			 Doctrine/Policies
-			 Personnages illustres/Great people
-			 Alliances/Alliances
-			 Congrès mondial/World congress
-			 Textes divers/Splash text
-			 Frontend
-			 BCY -->
+		<!-- 
+			Civilisations/Civilizations
+			Unités/Units
+			Promotions d'unités/Unit promotions
+			Descriptions en combat/Combat descriptions 
+			Gouverneurs/Governors
+			Panthéons/Pantheons
+			Croyances/Beliefs
+			Aménagements/Improvements
+			Quartiers/Districts
+			Bâtiments/Buildings
+			Merveilles naturelles/Natural wonders
+			Merveilles mondiales/World wonders
+			Cités-états/City-states
+			Âges/Ages
+			Arbre de technologie/Science tree
+			Arbre de dogmes/Culture tree
+			Gouvernements/Governements
+			Doctrine/Policies
+			Personnages illustres/Great people
+			Alliances/Alliances
+			Congrès mondial/World congress
+			Textes divers/Splash text
+			Frontend
+			BCY 
+		-->
 
 
 
@@ -306,7 +308,7 @@
 		</Replace>
 		<!-- = leader ability (Wu Zetian) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_WU_ZETIAN_DESCRIPTION" Language="fr_FR">
-			<Text>Tous les espions offensifs bénéficient virtuellement d'un niveau de plus. Lorsqu'un espion offensif réussit sa mission, vous gagnez également un bonus égal à 50% de la [ICON_SCIENCE] Science, de la [ICON_CULTURE] Culture et de la [ICON_FAITH] Foi générées lors de ce tour dans la ville cible. Vous recevez un espion gratuit et votre nombre maximum d'espions augmente de 1 une fois la Stratégie Défensive découverte.[NEWLINE]Vous recevez un Espion quand l'un de vos Espions meure ou se fait capturer.[NEWLINE]Peut acheter des Espions avec de la [ICON_FAITH] Foi.</Text>
+			<Text>Tous les espions offensifs bénéficient virtuellement d'un niveau de plus. Lorsqu'un espion offensif réussit sa mission, vous gagnez également un bonus égal à 50% de la [ICON_SCIENCE] Science, de la [ICON_CULTURE] Culture et de la [ICON_FAITH] Foi générées lors de ce tour dans la ville cible. Vous recevez un espion gratuit et votre nombre maximum d'espions augmente de 1 une fois la Stratégie Défensive découverte.[NEWLINE]Vous recevez un Espion quand l'un de vos Espions meurt ou se fait capturer.[NEWLINE]Peut acheter des Espions avec de la [ICON_FAITH] Foi.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION" Language="fr_FR">
@@ -697,7 +699,7 @@
 		</Row>
 		<!-- = leader ability (Gandhi) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION" Language="fr_FR">
-			<Text>Octroie une croyance supplémentaire à la fondation d'une [ICON_RELIGION] religion.[NEWLINE][ICON_FAITH] Foi +1 pour chaque ville convertie à votre [ICON_RELIGION] religion, et [ICON_FAITH] Foi +5 pour chaque civilisation rencontrée (y compris l'Inde) ayant fondé une [ICON_RELIGION] religion et n'étant pas en guerre.[NEWLINE][ICON_MOVEMENT] PM +1 pour les Bâtisseurs et les Colons.[NEWLINE][NEWLINE]L'usure de la guerre est doublée pour les civilisations qui combattent Gandhi.</Text>
+			<Text>Octroie une croyance supplémentaire à la fondation d'une [ICON_RELIGION] religion.[NEWLINE][ICON_FAITH] Foi +5 pour chaque civilisation rencontrée (y compris l'Inde) ayant fondé une [ICON_RELIGION] religion et n'étant pas en guerre.[NEWLINE][ICON_MOVEMENT] PM +1 pour les Bâtisseurs et les Colons.[NEWLINE][NEWLINE]L'usure de la guerre est doublée pour les civilisations qui combattent Gandhi.</Text>
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="fr_FR">
@@ -729,7 +731,7 @@
 		<!-- == JAPAN == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION" Language="fr_FR">
-			<Text>Tous les [ICON_DISTRICT] quartiers bénéficient d'un bonus de proximité standard, plutôt que mineur, de la part des autres quartiers.[NEWLINE]En contrepartie, les Plateformes commerciales japonnaises ne bénéficient pas du bonus de proximité habituel de la part des rivières.</Text>
+			<Text>Tous les [ICON_DISTRICT] quartiers bénéficient d'un bonus de proximité standard, plutôt que mineur, de la part des autres quartiers.[NEWLINE]En contrepartie, les Plateformes commerciales japonaises ne bénéficient pas du bonus de proximité habituel de la part des rivières.</Text>
 		</Replace>
 		<!-- = leader ability (Hojo Tokimune) = -->
 		<Replace Tag="LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION" Language="fr_FR">
@@ -953,7 +955,7 @@
 		<!-- == MAYA == -->
 		<!-- = civilization ability = -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="fr_FR">
-			<Text>Les villes n'obtiennent pas [ICON_HOUSING] d'Habitations de l'eau douce et des cases côtières. La [ICON_CAPITAL] Capitale gagne +3 [ICON_HOUSING] Habitations. Les Centres-villes gagnent +1 [ICON_AMENITIES] Activités pour chaque ressource de luxe adjacente.[NEWLINE][NEWLINE]Les fermes fournissent +1 [ICON_GOLD] Or et +1 [ICON_HOUSING] Habitations, ainsi que +1 [ICON_PRODUCTION] Production par Observatoire adjacent.</Text>
+			<Text>Les villes n'obtiennent pas [ICON_HOUSING] d'Habitations de l'eau douce et des cases côtières. [ICON_HOUSING] Habitations +1 pour la [ICON_CAPITAL] Capitale. Les Centres-villes gagnent +1 [ICON_AMENITIES] Activités pour chaque ressource de luxe adjacente.[NEWLINE][NEWLINE]Les fermes fournissent +1 [ICON_GOLD] Or et +1 [ICON_HOUSING] Habitations, ainsi que +1 [ICON_PRODUCTION] Production par Observatoire adjacent.</Text>
 		</Replace>
 		<!-- = leader ability = -->
 		<Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="fr_FR">
@@ -1697,7 +1699,7 @@
 			<Text>[ICON_PRODUCTION] Production +40% pour la construction de [ICON_DISTRICT] quartiers dans les villes ne possédant pas de [ICON_DISTRICT] quartier spécialisé.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_FAITH] Foi +1 pour les Lieux saints adjacents à des cases de toundra plate.</Text>
+			<Text>[ICON_FAITH] Foi +1 pour les Lieux saints pour chaque case de toundra plate adjacente.</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_TUNDRA_FAITH" Language="fr_FR">
 			<Text>Cases de toundra plate adjacentes : [ICON_FAITH] Foi +{1_num}.</Text>
@@ -1709,10 +1711,10 @@
 			<Text>Produire une unité militaire octroie 30% de son coût en [ICON_PRODUCTION] Production en [ICON_FAITH] Foi.[NEWLINE]Un Guerrier apparaît dans votre [ICON_CAPITAL] Capitale.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_EXPANSION2_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_PRODUCTION] Production +1 pour les cases de marais, d'oasis et de plaines inondables de tout types.</Text>
+			<Text>[ICON_PRODUCTION] Production +1 pour les cases de marais, d'oasis et de plaines inondables.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_FAITH] Foi +1 pour les Lieux saints adjacents à des cases de forêt ou de forêt tropicale.</Text>
+			<Text>[ICON_FAITH] Foi +1 pour les Lieux saints pour chaque case de forêt et de forêt tropicale adjacente.</Text>
 		</Replace>
 		<Row Tag="LOC_DISTRICT_SACREDPATH_WOODS_FAITH" Language="fr_FR">
 			<Text>[ICON_FAITH] Foi +{1_num} des Bois et Forêts Tropicales adjacents.</Text>
@@ -1746,113 +1748,132 @@
 		</Replace>
 
 
-		
+
 		<!-- === BELIEFS - CROYANCES === -->
-		<Replace Tag="LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION" Language="fr_FR">
-			<Text>Les autels et les temples octroient +3 [ICON_FOOD] Nourriture et +1 [ICON_HOUSING] Habitations chacun.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_TITHE_EXPANSION2_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_GOLD] Or +2 pour chaque ville convertie à cette religion.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_HOLY_WATERS_DESCRIPTION" Language="fr_FR">
-			<Text>Guérison +20 pour toutes vos unités se trouvant dans le territoire d'une ville où votre religion est majoritaire.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_DAR_E_MEHR_EXPANSION2_DESCRIPTION" Language="fr_FR">
-			<Text>Permet la construction des Dar-e Mehr ([ICON_FAITH] Foi +3 et [ICON_CULTURE] Culture +3. Pillage impossible par les catastrophes naturelles).</Text>
-		</Replace>
-		<Replace Tag="LOC_BUILDING_DAR_E_MEHR_EXPANSION2_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_CULTURE] Culture +2. Pillage impossible par les catastrophes naturelles.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_SCIENCE] Science +1 par groupe de 3 fidèles de cette religion dans d'autres civilisations.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_TITHE_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_GOLD] Or +1 par groupe de 3 fidèles de cette religion.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_CULTURE] Culture +1 par groupe de 3 fidèles de cette religion dans d'autres civilisations.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_STRENGTH] Puissance de combat +3 pour les unités militaires sur le territoire des villes alliées converties à cette religion.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_FAITH] Foi +6 pour toutes les merveilles mondiales.</Text>
-		</Replace>
-		<Replace Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_FAITH] Foi +3 et [ICON_CULTURE] Culture +3.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION" Language="fr_FR">
-			<Text>Permet la construction des Dar-e Mehr ([ICON_FAITH] Foi +3 et [ICON_CULTURE] Culture +3. Pillage impossible par les catastrophes naturelles.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION" Language="fr_FR">
-			<Text>Les autels et les temples fournissent une quantité de [ICON_PRODUCTION] Production égale à leur génération de [ICON_FAITH] Foi intrinsèque.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_STRENGTH] Puissance de combat +5 pour les unités militaires proches des villes étrangères converties à cette religion.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION" Language="fr_FR">
-			<Text>Chaque Place du théâtre ou Lieu saint d'une ville convertie à cette religion fournit respectivement +2 [ICON_CULTURE] Culture ou +2 [ICON_FAITH] Foi.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_AMENITIES] Activités +1 dans les villes abritant un [ICON_DISTRICT] quartier spécialisé.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_HOUSING] Habitations +1 pour les Lieux saints, les autels et les temples.</Text>
+		<!-- == Follower == -->
+		<Replace Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION" Language="fr_FR">
+			<Text>Les autels et les temples octroient respectivement +2 et +4 [ICON_CULTURE] Culture.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_EXPANSION2_DESCRIPTION" Language="fr_FR">
 			<Text>[ICON_GOLD] Or +2 pour vos [ICON_TRADEROUTE] routes commerciales internationales depuis des villes dotées d'un Lieu saint, et +2 supplémentaires pour chaque bâtiment dans ce Lieu saint.</Text>
 		</Replace>
-		<Replace Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION" Language="fr_FR">
-			<Text>[ICON_FAITH] Foi +3 pour chaque ville convertie à cette religion dans d'autres civilisations et Cités-états.</Text>
+		<Replace Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION" Language="fr_FR">
+     		<Text>Permet d'acheter des bâtiments du Campus et de la Place du théâtre avec de la [ICON_FAITH] Foi. Réduit le coût d'achat des bâtiments du Campus et de la Place de théâtre de 15%.</Text>
+  		</Replace>
+		<Replace Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_FAITH] Foi +6 pour toutes les merveilles mondiales.</Text>
 		</Replace>
+		<Replace Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_AMENITIES] Activités +1 dans les villes possédant un [ICON_DISTRICT] quartier spécialisé.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_WARRIOR_MONKS_EXPANSION2_DESCRIPTION" Language="fr_FR">
+      		<Text>Permet de dépenser de la [ICON_FAITH] Foi pour former un Moine-guerrier, une unité de combat terrestre à l'arbre de promotions spécifique. La ville doit posséder un Lieu saint doté d'un autel.[NEWLINE]La construction d'un Lieu saint déclenche une bombe culturelle qui capture les cases adjacentes.</Text>
+    	</Replace>
+		<Replace Tag="LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION" Language="fr_FR">
+			<Text>Les autels et les temples octroient respectivement +2 et +4 [ICON_FOOD] Nourriture, ainsi que +1 [ICON_HOUSING] Habitations.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION" Language="fr_FR">
+			<Text>Triple la [ICON_FAITH] Foi et le [ICON_TOURISME] Tourisme générés par les [ICON_GREATWORK_RELIC] reliques.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION" Language="fr_FR">
+			<Text>Les autels et les temples octroient respectivement +2 et +4 [ICON_PRODUCTION] Production.</Text>
+		</Replace>
+
+		<!-- == Founder == -->
+		<Replace Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_SCIENCE] Science +1 par groupe de 3 fidèles de cette [ICON_RELIGION] religion dans d'autres civilisations.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_TITHE_EXPANSION2_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_GOLD] Or +2 pour chaque ville convertie à cette religion.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_CULTURE] Culture +1 par groupe de 3 fidèles de cette [ICON_RELIGION] religion dans d'autres civilisations.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_STEWARDSHIP_EXPANSION2_DESCRIPTION" Language="fr_FR">
+			<Text>Les Plateformes commerciales et les Campus d'une ville convertie à cette [ICON_RELIGION] religion fournissent respectivement +2 [ICON_GOLD] Or ou +2 [ICON_SCIENCE] Science.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION" Language="fr_FR">
+			<Text>Les Places du théâtre et les Lieux saints d'une ville convertie à cette [ICON_RELIGION] religion ournissent respectivement +2 [ICON_CULTURE] Culture ou +2 [ICON_FAITH] Foi.</Text>
+		</Replace>	
+		<Replace Tag="LOC_BELIEF_SACRED_PLACES_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_GOLD] Or +2, [ICON_SCIENCE] Science +2, [ICON_CULTURE] Culture +2 et [ICON_FAITH] Foi +2 pour chaque ville convertie à cette [ICON_RELIGION] religion et dotée d'une merveille mondiale.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_PILGRIMAGE_EXPANSION2_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_FAITH] Foi +2 pour chaque ville convertie à cette [ICON_RELIGION] religion.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION" Language="fr_FR">
+			<Text>Lorsque vous envoyez un [ICON_ENVOY] émissaire dans une Cité-état, celle-ci subit 200 points de [ICON_RELIGION] pression religieuse.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_RELIGIOUS_UNITY_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_ENVOY] Émissaires +1 dans les Cités-états qui adoptent cette [ICON_RELIGION] religion, en plus d'un éventuel [ICON_ENVOY] émissaire obtenu si la quête de Cité-état est la conversion à la [ICON_RELIGION] religion.</Text>
+		</Replace>
+
+		<!-- == Enhancer == -->
+		<Replace Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION" Language="fr_FR">
+			<Text>Si cette [ICON_RELIGION] religion est majoritaire dans une civilisation, les villes qu'elle fonde l'adoptent automatiquement.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_STRENGTH] Puissance de combat +5 pour les unités militaires sur le territoire des villes étrangères converties à cette [ICON_RELIGION] religion.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_STRENGTH] Puissance de combat +3 pour les unités militaires sur le territoire des villes alliées converties à cette [ICON_RELIGION] religion.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_HOLY_WATERS_DESCRIPTION" Language="fr_FR">
+			<Text>Guérison +20 pour toutes vos unités se trouvant dans le territoire d'une ville où votre [ICON_RELIGION] religion est majoritaire.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION" Language="fr_FR">
+			<Text>La pression de votre [ICON_RELIGION] religion ne baisse jamais en cas de défaite théologique.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION" Language="fr_FR">
+			<Text>Le prix des Missionnaires et des Apôtres baisse de 25%.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION" Language="fr_FR">
+			<Text>La [ICON_RELIGION] religion se propage aux villes 30% plus éloignées.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION" Language="fr_FR">
+			<Text>Propagation de la [ICON_RELIGION] religion due à la pression d'une ville adjacente +25%. Monte à 50% une fois l'imprimerie découverte.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION" Language="fr_FR">
+			<Text>Les unités religieuses ignorent les pénalités de [ICON_MOVEMENT] mouvement du terrain.</Text>
+		</Replace>
+
+		<!-- == Worship == -->
+		<Replace Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION" Language="fr_FR">
+      		<Text>Permet la construction de cathédrales ([ICON_FAITH] Foi +3 et 1 emplacement pour chef-d'œuvre de tout type).</Text>
+    	</Replace>
+		<Replace Tag="LOC_BELIEF_DAR_E_MEHR_EXPANSION2_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction des Dar-e Mehr ([ICON_FAITH] Foi +3 et [ICON_CULTURE] Culture +3. Pillage impossible par les catastrophes naturelles).</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_DAR_E_MEHR_EXPANSION2_DESCRIPTION" Language="fr_FR">
+			<Text>[ICON_CULTURE] Culture +3. Pillage impossible par les catastrophes naturelles.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_GURDWARA_EXPANSION2_DESCRIPTION" Language="fr_FR">
+      		<Text>Permet de construire des gurdwārās ([ICON_FAITH] Foi +3, [ICON_FOOD] Nourriture +3 et [ICON_HOUSING] Habitations +1).</Text>
+    	</Replace>
+		<Replace Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION" Language="fr_FR">
+      		<Text>Permet de construire des maisons de rencontre ([ICON_FAITH] Foi +3 et [ICON_PRODUCTION] Production +3).</Text>
+    	</Replace>
+		<Replace Tag="LOC_BELIEF_MOSQUE_DESCRIPTION" Language="fr_FR">
+      		<Text>Permet la construction de mosquées ([ICON_FAITH] Foi +3). Octroie un Missionnaire à chaque fois qu'une mosquée est construite. Les Missionnaires et Apôtres ont 2 charges supplémentaires.</Text>
+    	</Replace>
+		<Replace Tag="LOC_BUILDING_MOSQUE_DESCRIPTION" Language="fr_FR">
+      		<Text>Tous les Missionnaires et Apôtres créés dans une moquée ont 2 charges supplémentaires. Vous recevez un Missionnaire gratuit à chaque fois que vous en construisez une.</Text>
+    	</Replace>
 		<Replace Tag="LOC_BELIEF_PAGODA_EXPANSION2_DESCRIPTION" Language="fr_FR">
-			<Text>Permet la construction de pagodes ([ICON_FAITH] Foi +3, [ICON_INFLUENCEPERTURN] Points d'influence +1 par tour).</Text>
+			<Text>Permet la construction de pagodes ([ICON_FAITH] Foi +3 et [ICON_INFLUENCEPERTURN] Points d'influence +1 par tour).</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_PAGODA_EXPANSION2_DESCRIPTION" Language="fr_FR">
 			<Text>[ICON_INFLUENCEPERTURN] Points d'influence par tour +1.</Text>
 		</Replace>
+		<Replace Tag="LOC_BELIEF_STUPA_DESCRIPTION" Language="fr_FR">
+			<Text>Permet la construction de stupas ([ICON_Faith] Foi +3 et [ICON_Amenities] activités +1).</Text>
+		</Replace>
 		<Replace Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION" Language="fr_FR">
       		<Text>Permet la construction de synagogues ([ICON_FAITH] Foi +7).</Text>
     	</Replace>
-		<Replace Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION" Language="fr_FR">
-      		<Text>Les Plateformes commerciales et les Campus d'une ville convertie à cette religion fournissent respectivement +2 [ICON_GOLD] Or ou +2 [ICON_SCIENCE] Science.</Text>
-	    </Replace>
-		<Replace Tag="LOC_BELIEF_STEWARDSHIP_EXPANSION2_DESCRIPTION" Language="fr_FR">
-			<Text>Les Plateformes commerciales et les Campus d'une ville convertie à cette religion fournissent respectivement +2 [ICON_GOLD] Or ou +2 [ICON_SCIENCE] Science.</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION" Language="fr_FR">
-     		 <Text>Permet d'acheter des bâtiments du Campus et de la Place du théâtre avec de la [ICON_FAITH] Foi. Réduit le coût d'achat des bâtiments du Campus et de la Place de théâtre de 15%.</Text>
-  		</Replace>
-		<Replace Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION" Language="fr_FR">
-      		<Text>Permet de dépenser de la [ICON_FAITH] Foi pour former des moines-guerriers, des unités de combat terrestres à l'arbre de promotions spécifique. La ville d'achat doit posséder un Lieu saint doté d'un autel.</Text>
-    	</Replace>
-		<Replace Tag="LOC_BELIEF_WARRIOR_MONKS_EXPANSION2_DESCRIPTION" Language="fr_FR">
-      		<Text>Permet de dépenser de la [ICON_FAITH] Foi pour former des moines-guerriers, des unités de combat terrestres à l'arbre de promotions spécifique. La ville d'achat doit posséder un Lieu saint doté d'un autel.[NEWLINE]La construction d'un Lieu saint déclenche une bombe culturelle qui capture les cases adjacentes.</Text>
-    	</Replace>
-		<Replace Tag="LOC_BELIEF_GURDWARA_DESCRIPTION" Language="fr_FR">
-			<Text>APermet de construire des gurdwārās ([ICON_FAITH] Foi +3, [ICON_FOOD] Nourriture +3).</Text>
-		</Replace>
-		<Replace Tag="LOC_BELIEF_GURDWARA_EXPANSION2_DESCRIPTION" Language="fr_FR">
-      		<Text>Permet de construire des gurdwārās ([ICON_FAITH] Foi +3, [ICON_FOOD] Nourriture +3, [ICON_HOUSING] Habitations +1).</Text>
-    	</Replace>
-		<Replace Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION" Language="fr_FR">
-      		<Text>Permet de construire des maisons de rencontre ([ICON_FAITH] Foi +3, [ICON_PRODUCTION] Production +3).</Text>
-    	</Replace>
 		<Replace Tag="LOC_BELIEF_WAT_DESCRIPTION" Language="fr_FR">
-      		<Text>Permet la construction de wats ([ICON_FAITH] Foi +3, [ICON_SCIENCE] Science +3).</Text>
+      		<Text>Permet la construction de wats ([ICON_FAITH] Foi +3 et [ICON_SCIENCE] Science +3).</Text>
     	</Replace>
-		<Replace Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION" Language="fr_FR">
-      		<Text>Permet la construction de cathédrales ([ICON_FAITH] Foi +3 et 1 emplacement pour chef-d'œuvre de tout type).</Text>
-    	</Replace>
-		<Replace Tag="LOC_BELIEF_MOSQUE_DESCRIPTION" Language="fr_FR">
-      		<Text>Permet la construction de mosquées ([ICON_FAITH] Foi +3). Octroie un missionnaire à chaque fois qu'une mosquée est construite. Les missionnaires et apôtres peuvent propager leur religion deux fois supplémentaire.</Text>
-    	</Replace>
-		<Replace Tag="LOC_BUILDING_MOSQUE_DESCRIPTION" Language="fr_FR">
-      		<Text>Tous les Missionnaires et Apôtres créés dans une moquée peuvent propager leur religion deux fois supplémentaire. Vous recevez un Missionnaire gratuit à chaque fois que vous en construisez une.</Text>
-    	</Replace>
-		<Replace Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION" Language="fr_FR">
-			<Text>Le prix des Missionnaires et des Apôtres baisse de 25%.</Text>
-		</Replace>
 
 
 
